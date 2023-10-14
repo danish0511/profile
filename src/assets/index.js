@@ -8,8 +8,8 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import python from "./tech/Python.png";
-import c from "./tech/c.png";
-import cplus from "./tech/c++.png";
+import c from "./tech/C.png";
+import cplus from "./tech/C++.png";
 import css from "./tech/css.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
